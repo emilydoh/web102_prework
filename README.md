@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/emilydoh/web102_prework/assets/113153067/1a503d00-370e-4c4f-af88-24eb96777c3f' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
+<img src='https://github.com/emilydoh/web102_prework/assets/113153067/029f8102-08a4-4fcb-95b2-948d7a7ebfe4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif, Ezgif
