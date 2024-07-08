@@ -5,8 +5,11 @@ body {
     background-color: #758190;
 }
 
-a {
+.nav-link {
     text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
 }
 
 header li {
@@ -86,8 +89,8 @@ header {
 }
 
 .game-card:hover {
-    cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+    cursor: default;
 }
 
 #button-container {
